@@ -1,0 +1,12 @@
+{
+  "name": "projetotutorial",
+  "displayName": "projetotutorial",
+  "expo": {
+    "name": "projetotutorial",
+    "slug": "projetotutorial",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
